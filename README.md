@@ -1,5 +1,5 @@
 # dataGrab
-Test task for Helix
+Test task
 
 Installation 
 
